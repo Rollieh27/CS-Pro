@@ -1,5 +1,5 @@
 # CS PRO: Code Stack Pro
-DEPLOY LINK: [Click Here](https://biznotes.herokuapp.com/)
+DEPLOY LINK: [Click Here](https://cspro.herokuapp.com/)
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
