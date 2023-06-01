@@ -1,7 +1,7 @@
 {
-    "name": "JATE",
+    "name": "codestackpro",
     "version": "1.0.0",
-    "description": "",
+    "description": "Code stack pro is the best text editor available",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
